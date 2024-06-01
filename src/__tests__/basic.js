@@ -1,4 +1,4 @@
-import { calculateLife } from "../calculateLife";
+import calculateLife from "../calculateLife";
 
 test.each([
     ['Маг', 90, 'healthy'],
